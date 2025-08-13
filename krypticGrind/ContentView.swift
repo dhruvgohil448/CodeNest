@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  KrypticGrind
 //
-//  Created by akhil on 29/06/25.
+//  Created by Dhruv on 29/06/25.
 //
 
 import SwiftUI
